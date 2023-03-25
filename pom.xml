@@ -74,7 +74,7 @@
                     <archive>
                         <manifest>
                             <!-- 此处指定main方法入口的class -->
-                            <mainClass>mao.t1.Server</mainClass>
+                            <mainClass>mao.t1.Client</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
